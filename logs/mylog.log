@@ -1,0 +1,8 @@
+2018-10-16 14:18:49 INFO  Test:25 - int = 1
+2018-10-16 14:18:57 DEBUG Test:29 - char = r
+2018-10-16 14:19:01 WARN  Test:33 - short = 2
+2018-10-16 14:19:03 ERROR Test:37 - byte = 1
+2018-10-16 14:19:06 INFO  Test:41 - long = 3
+2018-10-16 14:19:13 DEBUG Test:45 - float = 2.3
+2018-10-16 14:19:15 WARN  Test:49 - double = 3.2
+2018-10-16 14:19:20 ERROR Test:53 - bool = false
